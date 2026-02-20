@@ -16,8 +16,8 @@ Desarrollar un sitio web informativo que promueva el reciclaje, eduque a los usu
 ## Roles del equipo
 
 - Project Manager: Gabriel Morales
-- Desarrollador Front 1: (Nombre compañero)
-- Desarrollador Front 2: (Nombre compañero)
+- Desarrollador Front 1: Gabriel Morales González
+- Desarrollador Front 2: Brenda Perez Pantoja
 
 ## Tecnologías utilizadas
 
