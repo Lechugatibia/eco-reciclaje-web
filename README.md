@@ -1,7 +1,11 @@
 # eco-reciclaje-web
 Sitio web colaborativo para fomentar el reciclaje en la comunidad
 
+<<<<<<< HEAD
 # Eco-Recicla - Plataforma Web de Concientización sobre Reciclaje
+=======
+# EcoRecicla - Plataforma Web de Concientización sobre Reciclaje
+>>>>>>> feature-tipos-residuos
 
 ## Problemática
 
@@ -25,6 +29,7 @@ Desarrollar un sitio web informativo que promueva el reciclaje, eduque a los usu
 - Git
 - GitHub
 
+<<<<<<< HEAD
 ## Distribución de roles obligatorios
 
 
@@ -80,6 +85,8 @@ Una vez se clono exitosamente se crearon diferentes ramas para poder trabajar so
     6.info-reciclaje-brenda
 ```
 
+=======
+>>>>>>> feature-tipos-residuos
 ## Flujo de trabajo
 
 1. El repositorio fue creado por el Project Manager.
@@ -92,6 +99,7 @@ Una vez se clono exitosamente se crearon diferentes ramas para poder trabajar so
 ## Conflicto
 
 Dos integrantes modificaron el mismo párrafo de bienvenida en el archivo index.html.
+<<<<<<< HEAD
 Esto generó un conflicto al momento de hacer merge.
 El conflicto fue resuelto de manera colaborativa revisando ambas versiones y dejando una versión final consensuada.
 ### Qué lo causó
@@ -100,3 +108,19 @@ El conflicto fue resuelto de manera colaborativa revisando ambas versiones y dej
 >> Editamos manualmente el archivo eliminando las marcas de conflicto de Git y realizamos un nuevo commit documentando la solución.
  ### Qué aprendimos
 >> Aprendimos la importancia de comunicarnos antes de modificar archivos compartidos y cómo Git maneja conflictos.
+=======
+
+Esto generó un conflicto al momento de hacer merge.
+
+El conflicto fue resuelto de manera colaborativa revisando ambas versiones y dejando una versión final consensuada.
+
+### Qué lo causó
+Modificación simultánea del mismo bloque de texto.
+
+### Cómo lo resolvimos
+Editamos manualmente el archivo eliminando las marcas de conflicto de Git y realizamos un nuevo commit documentando la solución.
+
+### Qué aprendimos
+Aprendimos la importancia de comunicarnos antes de modificar archivos compartidos y cómo Git maneja conflictos.
+
+>>>>>>> feature-tipos-residuos
