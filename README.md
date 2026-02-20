@@ -24,7 +24,44 @@ Desarrollar un sitio web informativo que promueva el reciclaje, eduque a los usu
 - HTML
 - Git
 - GitHub
-
+## Dsitribución de roles obligatorios
+### Project Manager
+#### 1.Crear el repositorio
+Primero el repositorio fue creado desde Github "New repository", una ves se le asigaron los permisos correspondientes se creo otro en  git
+Sintaxis:
+mkdir eco-reciclaje-web
+cd eco-reciclaje-web
+git init 
+echo "# eco-reciclaje-web" >> README.md
+git add .
+git commit -m "Primer commit: agregando el readme"
+Ahora solo queda vincularlos:
+Sintaxis desde Git bash
+git branch -M main
+git remote add origin https://github.com/el usuario/eco-reciclaje-web.git
+git push -u origin main
+#### 2.Gestión de issues
+Para poder realizar este punto creamos el error y se soluciono
+en este caso en la problematica se crearon dos ramas que se modficaron en el index y el trabajo del Project Manager fue observar el error y seleccionar que cambios eran los mas optimos para la pagina web o borrando ciertos procesos que interfieren con el flujo del sitio 
+#### 3.Supervicio de merges
+#### 4.Confirma Pull Requests
+### Desarrollador Front 1
+#### 1.Crear secciones principales
+Este caso se creo una rama para el index que contiene la parte principal de la pagina 
+#### 2.Manejo de navegación
+Se creo un nav para que el usuario pueda desplegarse entre paginas 
+### 3.Desarrollador Front 2
+#### 1.Creación de formularios
+Se creo un apartado en el nav que te direcciona a un formulario para poder aportar con el reciclaje sin pedir datos sensibles como direccion para la protección del usuario
+#### 2.Secciones secundarias
+Se crearon secciones informativas como donde exiten algun centros de recolección y que tipos de reciclaje existen
+#### 3.Footer
+Se creo nun footer que se implemento en todas las sección para los derechos de autor
+## Fase 2
+Para poder implementar las acciones previamente redactadas de las tareas de los desorradores del Front 1 y 2 se necesito que el Project Manager les enviara una solicitud para poder acceder al repositorio de Github y posterior se clono en Git.
+Una vez se clono exitosamente se crearon diferentes ramas para poder trabajar sobre ellas y no directamente en el main Creando ramas llamadas:
+1.
+## Requisitos minimos
 ## Flujo de trabajo
 
 1. El repositorio fue creado por el Project Manager.
