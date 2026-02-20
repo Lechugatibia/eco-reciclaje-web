@@ -94,9 +94,9 @@ Una vez se clono exitosamente se crearon diferentes ramas para poder trabajar so
 Dos integrantes modificaron el mismo párrafo de bienvenida en el archivo index.html.
 Esto generó un conflicto al momento de hacer merge.
 El conflicto fue resuelto de manera colaborativa revisando ambas versiones y dejando una versión final consensuada.
->### Qué lo causó
+### Qué lo causó
 >> Modificación simultánea del mismo bloque de texto.
 ### Cómo lo resolvimos
 >> Editamos manualmente el archivo eliminando las marcas de conflicto de Git y realizamos un nuevo commit documentando la solución.
-> ### Qué aprendimos
+ ### Qué aprendimos
 >> Aprendimos la importancia de comunicarnos antes de modificar archivos compartidos y cómo Git maneja conflictos.
