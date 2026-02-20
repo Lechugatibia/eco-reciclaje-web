@@ -1,7 +1,7 @@
 # eco-reciclaje-web
 Sitio web colaborativo para fomentar el reciclaje en la comunidad
 
-# Eco_Recicla - Plataforma Web de Concientización sobre Reciclaje
+# Eco-Recicla - Plataforma Web de Concientización sobre Reciclaje
 
 ## Problemática
 
@@ -59,7 +59,7 @@ En este caso en la problemática se crearon dos ramas que se modificaron en el I
 > #### 2.Manejo de navegación
 >> Se creo un nav para que el usuario pueda desplegarse entre páginas 
 
-### *3.Desarrollador Front 2
+### 3.Desarrollador Front 2
 > #### 1.Creación de formularios
 >> Se creo un apartado en el nav que te direcciona a un formulario para poder aportar con el reciclaje sin pedir datos sensibles como dirección para la protección del usuario
 > #### 2.Secciones secundarias
