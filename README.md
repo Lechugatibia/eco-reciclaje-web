@@ -54,17 +54,17 @@ en este caso en la problematica se crearon dos ramas que se modficaron en el ind
 >> #### 3.Supervicio de merges
 >> #### 4.Confirma Pull Requests
 ### Desarrollador Front 1
->> #### 1.Crear secciones principales
+> #### 1.Crear secciones principales
 >> Este caso se creo una rama para el index que contiene la parte principal de la pagina 
->> #### 2.Manejo de navegación
+> #### 2.Manejo de navegación
 >> Se creo un nav para que el usuario pueda desplegarse entre paginas 
 
 ### *3.Desarrollador Front 2
->> #### 1.Creación de formularios
+> #### 1.Creación de formularios
 >> Se creo un apartado en el nav que te direcciona a un formulario para poder aportar con el reciclaje sin pedir datos sensibles como direccion para la protección del usuario
->> #### 2.Secciones secundarias
+> #### 2.Secciones secundarias
 >> Se crearon secciones informativas como donde exiten algun centros de recolección y que tipos de reciclaje existen
->> #### 3.Footer
+> #### 3.Footer
 >> Se creo nun footer que se implemento en todas las sección para los derechos de autor
 
 ## Fase 2
